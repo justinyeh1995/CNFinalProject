@@ -1,5 +1,5 @@
 ### Environment Setups
-- Install `ryu`
+- Install `ryu` with ```python3 -m pip install ryu```
 - Install `mininet`
 
 - Create a virtual environment with```python3 -m venv venv```.
