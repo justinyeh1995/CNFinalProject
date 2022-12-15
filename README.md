@@ -2,7 +2,7 @@
 - Install `ryu` with ```python3 -m pip install ryu```
 - Install `mininet`
 
-- Create a virtual environment with```python3 -m venv venv```.
+- Create a virtual environment with ```python3 -m venv venv```.
 - Install pakages in `venv` with ```pthon3 -m pdb pip install -r requirements.txt```
 ### How to run this code
 
