@@ -1,3 +1,7 @@
+### Environment Setups
+- Install `ryu`
+- Install `mininet`
+
 ### How to run this code
 
 Open three sperate shells:
