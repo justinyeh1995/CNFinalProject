@@ -20,6 +20,7 @@ Open three sperate shells:
 
 ** run this after clearing mininet topology
 - Start the Ryu controller by running: ```ryu-manager controller.py```
+
 `shell 3`:
 - Activate the virtual environment ```venv```: 
 ```source venv/bin/activate```
