@@ -17,10 +17,11 @@ Open three sperate shells:
 ```h2 flood_attack.sh```
 
 `shell 2`:
+
 ** run this after clearing mininet topology
-Start the Ryu controller by running: ```ryu-manager controller.py```
+- Start the Ryu controller by running: ```ryu-manager controller.py```
 `shell 3`:
 - Activate the virtual environment ```venv```: 
 ```source venv/bin/activate```
-Start the collecting and inspecting program by running: ```source collect_traffic.sh```
+- Start the collecting and inspecting program by running: ```source collect_traffic.sh```
 
