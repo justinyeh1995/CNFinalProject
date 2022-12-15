@@ -2,13 +2,13 @@
 - Install `ryu`
 - Install `mininet`
 
+- Create a virtual environment with```python3 -m venv venv```.
+- Install pakages in `venv` with ```pthon3 -m pdb pip install -r requirements.txt```
 ### How to run this code
 
 Open three sperate shells:
 
 `shell 1`:
-- Create a virtual environment via Python: ```python3 -m venv venv```.
-- Install pakages with ```pthon3 -m pdb pip install -r requirements.txt```
 - Activate the virtual environment ```venv```: 
 ```source venv/bin/activate```
 - Create a mininet topology
